@@ -1,7 +1,7 @@
 # PollBall
 20486D_MOD03_LAK
 
-** Configuring Middleware and Services in ASP.NET Core **
+**Configuring Middleware and Services in ASP.NET Core**
 
 Info: Aplicacion de pelotas favoritas donde aparece una página inicial con pelotas, aquí seleccionas tu favorita y pulsas submit. Te redirije a otra pantalla que agradece el haber
 elegido tu favorita y un enlace para ver las selecciones. Éste enlace te muestra otra página con las selecciones que se vab haciendo.
